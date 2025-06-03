@@ -8,7 +8,7 @@ A collection of engineering simulations built using ANSYS. Includes FEA, CFD, th
 
 - **Structural Analysis** — Stress, deformation, constraints, failure modes
 - **Thermal Analysis** — Steady-state and transient temperature distributions
-- **CFD** — Airflow and fluid dynamics (if included)
+- **CFD** — Airflow and fluid dynamics
 
 ---
 
@@ -17,4 +17,4 @@ A collection of engineering simulations built using ANSYS. Includes FEA, CFD, th
 Each simulation project folder includes:
 - `description.md` — Summary of the problem, setup, and results
 - `visuals/` — Key images or animations
-- `input_files/` — Geometry, mesh, or export files (if sharable)
+- `input_files/` — Geometry, mesh, or export files
